@@ -1,0 +1,74 @@
+#header
+{
+    background-color: black;
+    color:whitesmoke;
+}
+#footer
+{
+    background-color: black;
+    color:whitesmoke;
+    padding: 15px;
+}
+.h2, h2 {
+    font-size: 2rem;
+    margin-top: 5px;
+}
+#menu li{
+    list-style-type: none;
+    display: inline-block;
+    padding:15px;
+    margin-bottom: -20px;
+    
+}
+#menu a{
+    color:white;
+    text-decoration: none;
+}
+#content{
+    background-image: url('../images//img1.jpg');
+    background-size: cover;
+    padding: 12rem 2rem;
+}
+
+.contentpart h2{
+    background-color: hsl(34, 78%, 91%,0.8);
+    padding:15px;
+    border-radius: 15px 15px 0px 0px;
+}
+.contentpart p{
+    background-color: rgb(139, 43, 57,0.8);
+    padding:15px;
+    margin-top: -10px;
+    color: white;
+    border-radius: 0px 0px 15px 15px;
+}
+#logindiv{
+    background-color:rgb(255, 255, 255,0.2);
+        margin-top: 5rem;
+}
+#logincontent
+{
+    background-image: url('../images//img2.jpg');
+    background-size: cover;
+    height: 33rem;
+}
+#logincontent h2{
+    margin: 20px;
+    color: white;
+}
+#logindiv{
+    border-radius: 25px;
+}
+#logindiv a{
+    text-decoration: none;
+    color: white;
+}
+#registrationcontent{
+    background-image: url('../images//img3.jpg');
+    background-size: cover;
+    padding: 40px 40px;
+}
+#registrationcontent h2
+{
+    color:yellow;
+}
